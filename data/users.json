@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@budapest.hu",
+        "password": "$2y$12$a82.UQJ5CL1VN5.Tm3G.welF\/v3g0lnnqpxkRTt7rt9A9rJQy5TNi",
+        "is_admin": true
+    },
+    {
+        "id": 2,
+        "username": "AAAAAA",
+        "email": "1111111111@qq.com",
+        "password": "$2y$12$CQOELNUTZbjEmT.PlOlWZev1YoUcXYnpS4qd3WHx5vyAD9\/.gTy1m",
+        "is_admin": false
+    },
+    {
+        "id": 3,
+        "username": "BBBBB",
+        "email": "1111111111@qq.com",
+        "password": "$2y$12$8WAGJZfe0j7Jf2dWDIXxTOibE7JkvD.heaK4xuQ0BhUjQZIXA4Enq",
+        "is_admin": false
+    }
+]
